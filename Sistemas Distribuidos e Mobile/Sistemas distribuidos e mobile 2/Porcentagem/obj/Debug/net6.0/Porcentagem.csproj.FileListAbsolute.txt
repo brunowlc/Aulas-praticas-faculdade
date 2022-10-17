@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\bin\Debug\net6.0\Porcentagem.exe
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\bin\Debug\net6.0\Porcentagem.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\bin\Debug\net6.0\Porcentagem.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\bin\Debug\net6.0\Porcentagem.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\bin\Debug\net6.0\Porcentagem.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\refint\Porcentagem.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\Porcentagem.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Porcentagem\obj\Debug\net6.0\ref\Porcentagem.dll

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: black;
+        }
+
+        #texto-topo {
+            color: rgb(239, 68, 52);
+            margin-top: 1%;
+            margin-bottom: 5%;
+        }
+
+        #card {
+            background-color: #283142;
+            padding: 30px 10px;
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 5%;
+            border-radius: 20px;
+        }
+        
+        button, a{
+            margin-top: 15px;
+            color: red;
+            background-color: #283142;
+            border: none;
+            
+        }
+
+        .tabela {
+            margin: 3% 10%;
+            width: 80%;
+            border-collapse: collapse;
+        }
+
+        .tabela thead {
+            height: 55px;
+            font-size: 20px;
+            color: white;
+        }
+
+        .tabela tbody {
+            font-size: 20px;
+            color: white;
+        }
+
+        .tabela tbody tr {
+            height: 80px;
+            border-top: 1px solid #ebeced;
+        }
+
+        .tabela tbody tr:hover {
+            background-color: #384459;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div id="card">
+            <div id="texto-topo">
+                <h1>Tabela de vendas</h1>
+                <button>
+                    <a href="https://i.pinimg.com/564x/d2/1e/aa/d21eaaf7495976fbb74e178473fda839.jpg">Nao click</a>
+                </button>
+            </div>
+            <table class="tabela">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Produto</th>
+                        <th>Quantidade</th>
+                        <th>Valor</th>
+                        <th>Valor total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <th>Feijao</th>
+                        <th class="quantidade">8</th>
+                        <th class="valor">3</th>
+                        <th class="total">total</th>
+                    </tr>
+                    <tr>
+                        <th>2</th>
+                        <th>Arroz</th>
+                        <th class="quantidade">5</th>
+                        <th class="valor">4</th>
+                        <th class="total">total</th>
+                    </tr>
+                    <tr>
+                        <th>3</th>
+                        <th>Macarrao</th>
+                        <th class="quantidade">8</th>
+                        <th class="valor">5</th>
+                        <th class="total">Total</th>
+                    </tr>        
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        let valor = document.querySelectorAll(".valor");
+        let quantidade = document.querySelectorAll(".quantidade");
+        let total = document.querySelectorAll(".total");
+        let totalLinha = 0;
+        
+        for (let i = 0; i < quantidade.length; i++) {
+            totalLinha = parseFloat(quantidade[i].innerHTML) * parseFloat(valor[i].innerHTML);
+            total[i].innerHTML = totalLinha;
+        }
+
+        document.getElementById("total");
+
+    </script>
+
+</body>
+
+</html>

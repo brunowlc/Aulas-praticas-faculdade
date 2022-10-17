@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile 3\bin\Debug\net6.0\Sistemas distribuidos e mobile 3.exe
+C:\Projetos2\Sistemas distribuidos e mobile 3\bin\Debug\net6.0\Sistemas distribuidos e mobile 3.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\bin\Debug\net6.0\Sistemas distribuidos e mobile 3.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\bin\Debug\net6.0\Sistemas distribuidos e mobile 3.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\bin\Debug\net6.0\Sistemas distribuidos e mobile 3.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\refint\Sistemas distribuidos e mobile 3.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\Sistemas distribuidos e mobile 3.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\obj\Debug\net6.0\ref\Sistemas distribuidos e mobile 3.dll

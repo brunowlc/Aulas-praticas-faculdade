@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\bin\Debug\net6.0\calculador de salario.exe
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\bin\Debug\net6.0\calculador de salario.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\bin\Debug\net6.0\calculador de salario.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\bin\Debug\net6.0\calculador de salario.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\bin\Debug\net6.0\calculador de salario.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\refint\calculador de salario.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\calculador de salario.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\calculador de salario\obj\Debug\net6.0\ref\calculador de salario.dll

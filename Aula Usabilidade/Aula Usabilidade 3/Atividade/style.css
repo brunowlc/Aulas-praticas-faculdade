@@ -1,0 +1,66 @@
+main{
+    background-color: rgb(2, 2, 2);
+}
+.form-control{
+    width: 600px;
+    margin-left: 20%;
+}
+nav{
+    margin-top: 10px;
+}
+#carouselExampleIndicators{
+    margin: 3% 5%;
+}
+.d-block{
+    width: 1000px;
+    height: 700px;
+}
+#texto h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.col img{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+.col:hover{
+    background-color: rgb(208, 209, 205);
+    padding: 2px;
+}
+.container{
+    background-color: rgb(0, 0, 0);
+}
+#trailer h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+iframe{
+    margin-top: 20px;
+    width: 1200px;
+    height: 700px;
+}
+#texto2 h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#texto2 p{
+    text-align: center;
+    text-align: center;
+    padding: 0px;
+    margin: 0%;
+    font-size: 20px;
+}
+h1, h2, p {
+    color: aliceblue;
+}
+#rodape{
+    margin-top: 100px;
+}
+.rodape img{
+    width: 100px;
+    margin-bottom: 50px;
+}

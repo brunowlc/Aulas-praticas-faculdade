@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\bin\Debug\net6.0\Media.exe
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\bin\Debug\net6.0\Media.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\bin\Debug\net6.0\Media.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\bin\Debug\net6.0\Media.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\bin\Debug\net6.0\Media.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\refint\Media.dll
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\Media.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile 2\Media\obj\Debug\net6.0\ref\Media.dll

@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    font-family: 'roboto';
+    text-align: center;
+}
+#topo{
+    padding: 5% 0;
+    background-image: url("img/top.png");
+    background-position: center;
+    background-size: 100%; 
+}
+#topo img{
+    border-radius: 20%;
+}
+#topo h1{
+    font-size: 40px;
+}
+#topo a{
+    font-size: 25px;
+    border: solid black;
+    background-color: rgb(4, 238, 63);
+    border-radius: 10%;
+    text-decoration: none;
+}
+main{
+    background-color: rgb(250, 233, 217);
+}
+#texto{
+    padding: 3% 8%;
+    font-size: 35px;  
+}
+#texto p{
+    border: solid rgb(245, 110, 0);
+    padding: 1%;
+}
+#especialidades h2 {
+    font-size: 42pt;
+    color: rgb(17, 17, 17);
+}
+#pets{
+    display: flex;
+    flex-direction: row;
+    margin: 8% 0;
+    padding: 0 5%;
+    justify-content: center;
+}
+.petcard{
+    margin: 20px;
+    justify-content: center;
+    width: 400px;
+}
+#mapa{
+    justify-content: center;
+    margin-bottom: 20px ;
+}
+iframe{
+    width: 1000px;
+}
+#footer{
+    background-color: rgb(247, 200, 22);
+}

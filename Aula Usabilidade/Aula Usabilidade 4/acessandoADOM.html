@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h3>Nota1</h3>
+    <h4 id="n1">8</h4>
+
+    <h3>Nota2</h3>
+    <h4 id="n2">5</h4>
+
+    <h3>Nota3</h3>
+    <h4 id="n3">7</h4>
+
+    <h3>Media</h3>
+    <h4 id="media">valor media</h4>
+
+    <script>
+       
+        let n1 = document.getElementById("n1").textContent;
+        let n2 = document.getElementById("n2").textContent;
+        let n3 = document.getElementById("n3").textContent;
+        let media = document.getElementById("media");
+
+        let n1convert = parseFloat(n1);
+        let n2convert = parseFloat(n2);
+        let n3convert = parseFloat(n3);
+        media.textContent = (n1convert + n2convert + n3convert)/3;
+
+        console.log(media)
+
+        
+    </script>
+</body>
+</html>

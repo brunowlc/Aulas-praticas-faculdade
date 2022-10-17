@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\bin\Debug\net6.0\matricula.exe
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\bin\Debug\net6.0\matricula.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\bin\Debug\net6.0\matricula.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\bin\Debug\net6.0\matricula.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\bin\Debug\net6.0\matricula.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\refint\matricula.dll
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.pdb
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\matricula.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile 3\matricula\obj\Debug\net6.0\ref\matricula.dll

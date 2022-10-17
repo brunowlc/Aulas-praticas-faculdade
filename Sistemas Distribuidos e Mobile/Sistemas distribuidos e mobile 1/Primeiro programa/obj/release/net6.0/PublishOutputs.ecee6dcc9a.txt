@@ -1,0 +1,5 @@
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\publish\Primeiro programa.exe
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\publish\Primeiro programa.dll
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\publish\Primeiro programa.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\publish\Primeiro programa.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\publish\Primeiro programa.pdb

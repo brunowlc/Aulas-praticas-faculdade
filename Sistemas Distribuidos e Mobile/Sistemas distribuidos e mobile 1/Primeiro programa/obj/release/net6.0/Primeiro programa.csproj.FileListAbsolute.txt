@@ -1,0 +1,15 @@
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\Primeiro programa.exe
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\Primeiro programa.deps.json
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\Primeiro programa.runtimeconfig.json
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\Primeiro programa.dll
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\bin\release\net6.0\Primeiro programa.pdb
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.csproj.AssemblyReference.cache
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.AssemblyInfoInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.AssemblyInfo.cs
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.csproj.CoreCompileInputs.cache
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.dll
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\refint\Primeiro programa.dll
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.pdb
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\Primeiro programa.genruntimeconfig.cache
+C:\Projetos2\Sistemas distribuidos e mobile\Primeiro programa\obj\release\net6.0\ref\Primeiro programa.dll
